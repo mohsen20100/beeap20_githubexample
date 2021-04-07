@@ -1,6 +1,4 @@
 def testFunction():
-    return testFunction()
+    return 1+1
 
-
-testFunction()
-print("Hello world")
+print("Hello world ", testFunction())
