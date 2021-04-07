@@ -1,1 +1,2 @@
-import 
+
+print("Hello world")
